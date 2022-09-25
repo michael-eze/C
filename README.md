@@ -1,3 +1,4 @@
 # Vivado
 Vivado Projects (C++)
-\nThis is my Vivado Project 1
+
+This is my Vivado Project 1
