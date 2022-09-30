@@ -1,1 +1,1 @@
-All my projects that use C/C++ but Vivadp
+All my projects that use C/C++
